@@ -29,4 +29,4 @@ Input angka 7
 
 # Commit Message : Coba IF..ELSE.
 
-Input angka 1
+Input angka 
