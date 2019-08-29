@@ -93,4 +93,16 @@ Input angka 7
 
 ![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/2019-08-24%20(5).png)
 
-# 
+# Commit Message : Coba SWITCH..CASE.
+
+Input angka 50 
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/Capture.PNG)
+
+Input angka 75
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/2019-08-26%20(1).png)
+
+Input angka 85
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/2019-08-26%20(2).png)
