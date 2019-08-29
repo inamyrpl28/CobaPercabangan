@@ -98,7 +98,7 @@ Input angka 7
 
 Input angka 50 
 
-![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/Capture.PNG)
+![Alt Text!]()
 
 Input angka 75
 
@@ -128,12 +128,12 @@ Input angka 85
 
 Golongan A
 
-![Alt Text!](
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/Captureee.PNG)
 
 Golongan B
 
-![Alt Text!]
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/Capturee.PNG)
 
 Golongan C
 
-![Alt Text!]
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/Capture..PNG)
