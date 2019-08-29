@@ -1,4 +1,5 @@
 # CobaPercabangan
+# PRAKTEK Percabangan 1
 # Commit Message : Initial Commit.
 
 Input angka 3
@@ -106,3 +107,18 @@ Input angka 75
 Input angka 85
 
 ![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/2019-08-26%20(2).png)
+
+# PRAKTEK Percabangan 2
+# Resep makanan
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/1.PNG)
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/2.PNG)
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/3.PNG)
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/4.PNG)
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/5.PNG)
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/6.PNG)
