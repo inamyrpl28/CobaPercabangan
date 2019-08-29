@@ -48,3 +48,23 @@ Input angka 6
 Input angka 7
 
 ![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/2019-08-23%20(15).png)
+
+# Commit Message : Coba IF..ELSE IF..ELSE.
+
+Input angka 1
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/2019-08-23%20(16).png)
+
+Input angka 3
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/2019-08-23%20(17).png)
+
+Input angka 5
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/2019-08-23%20(18).png)
+
+Input angka 7
+
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/2019-08-23%20(19).png)
+
+
