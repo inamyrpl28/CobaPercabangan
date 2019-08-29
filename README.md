@@ -122,3 +122,18 @@ Input angka 85
 ![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/5.PNG)
 
 ![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/6.PNG)
+
+# TUGAS Kondisi
+# Tagihan Biaya Listrik
+
+Golongan A
+
+![Alt Text!](
+
+Golongan B
+
+![Alt Text!]
+
+Golongan C
+
+![Alt Text!]
