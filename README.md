@@ -98,7 +98,7 @@ Input angka 7
 
 Input angka 50 
 
-![Alt Text!]()
+![Alt Text!](https://github.com/inamyrpl28/CobaPercabangan/blob/master/Capture.PNG)
 
 Input angka 75
 
